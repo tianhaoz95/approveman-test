@@ -1,5 +1,5 @@
-ownership_rules:
-  directory_matching_rules:
+OwnershipRules:
+  directoryMatchingRules:
     - name: personal projects in experimental
       path: experimental/{{username}}/**/*
     - name: personal documentation
