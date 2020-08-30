@@ -1,7 +1,2 @@
-ownership_rules:
-  directory_matching_rules:
-    - name: personal projects in experimental
-      path: experimental/{{username}}/**/*
-    - name: personal documentation
-      path: docs/personal/{{username}}/**/*
-    
+this_is_a:
+  completely_wrong: config_file
